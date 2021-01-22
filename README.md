@@ -1,3 +1,3 @@
 # Kokoa Clone 2101 Update
 
-CSS got much better!
+HTML & CSS are so much fun!
