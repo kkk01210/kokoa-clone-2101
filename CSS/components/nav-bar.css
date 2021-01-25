@@ -12,9 +12,11 @@
   justify-content: space-between;
 }
 .nav__link {
+  position: relative;
   color: #2e363e;
 }
-.nav__notification {
+
+.nav__왜안돼 {
   background-color: mediumaquamarine;
   width: 30px;
   height: 30px;
@@ -25,5 +27,17 @@
   color: lightyellow;
   font-weight: 600;
   position: absolute;
-  right: 5px;
+  left: 15px;
+  bottom: 15px;
+}
+.nav__점 {
+  background-color: mediumaquamarine;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: -5px;
 }
