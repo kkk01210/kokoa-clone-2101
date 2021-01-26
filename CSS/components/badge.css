@@ -9,3 +9,20 @@
   color: lightyellow;
   font-weight: 600;
 }
+.badge2 {
+  background-color: mediumaquamarine;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 찾아볼까 */
+
+.설정해볼까 {
+  position: absolute;
+  right: -6px;
+  top: -8px;
+}
