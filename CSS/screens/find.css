@@ -107,3 +107,9 @@
   margin-left: 5px;
   padding: 0px 3px;
 }
+
+.내가만든post {
+  border-top: var(--main-border);
+  margin-top: 25px;
+  padding-top: 25px;
+}
