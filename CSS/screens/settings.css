@@ -1,14 +1,24 @@
 /* .settings__setting i */
 .싹도노 {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   margin-right: 20px;
   justify-content: center;
+  border-radius: 50%;
 }
 .settings__setting {
   padding: 20px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  font-size: 18px;
+  font-size: 20px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+}
+.settings__setting-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.settings__setting-column:last-child {
+  opacity: 0.5;
 }
