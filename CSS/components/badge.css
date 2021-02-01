@@ -1,5 +1,5 @@
 .badge {
-  background-color: mediumaquamarine;
+  background-color: rgb(136, 226, 196);
   width: 30px;
   height: 30px;
   border-radius: 15px;
@@ -10,7 +10,7 @@
   font-weight: 600;
 }
 .badge2 {
-  background-color: mediumaquamarine;
+  background-color: rgb(136, 226, 196);
   width: 6px;
   height: 6px;
   border-radius: 50%;
