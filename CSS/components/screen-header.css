@@ -20,3 +20,15 @@
   display: flex;
   align-items: center;
 }
+
+@keyframes 빙글빙글설정 {
+  from {
+    transform: none;
+  }
+  to {
+    transform: rotateZ(360deg);
+  }
+}
+.screen-header__icons .fa-cog:hover {
+  animation: 빙글빙글설정 1s ease-in-out infinite;
+}
